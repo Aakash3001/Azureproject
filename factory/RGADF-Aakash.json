@@ -1,0 +1,9 @@
+{
+	"name": "RGADF-Aakash",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ddef9ac-5a44-47ab-b4a7-d96329fa00c9",
+		"tenantId": "f6f16378-8885-4e47-9ab1-ce7ae9fa4d6a"
+	}
+}
